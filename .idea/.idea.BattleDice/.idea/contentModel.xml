@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Bulat\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Bulat\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_BattleDice.-1094448247.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Bulat\Documents\BattleDice" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Lean" t="Include">
+          <e p="Common" t="Include">
+            <e p="Documentation" t="Include">
+              <e p="LeanGuide.cs" t="Include" />
+            </e>
+            <e p="Examples" t="Include">
+              <e p="Fonts" t="Include">
+                <e p="OFL.txt" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="LeanLinkTo.cs" t="Include" />
+                <e p="LeanUpgradeEventSystem.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Alpha.shader" t="Include" />
+                <e p="Object.shader" t="Include" />
+                <e p="Skybox.shader" t="Include" />
+              </e>
+            </e>
+            <e p="LeanCommon.asmdef" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="LeanHelper.cs" t="Include" />
+              <e p="LeanInput.cs" t="Include" />
+              <e p="LeanInspector.cs" t="Include" />
+            </e>
+          </e>
+          <e p="GUI" t="Include">
+            <e p="LeanGUI.asmdef" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="LeanButton.cs" t="Include" />
+              <e p="LeanConstrainAnchoredPosition.cs" t="Include" />
+              <e p="LeanConstrainToParent.cs" t="Include" />
+              <e p="LeanDrag.cs" t="Include" />
+              <e p="LeanGui.cs" t="Include" />
+              <e p="LeanHitbox.cs" t="Include" />
+              <e p="LeanHover.cs" t="Include" />
+              <e p="LeanJoystick.cs" t="Include" />
+              <e p="LeanMoveToTop.cs" t="Include" />
+              <e p="LeanOrientation.cs" t="Include" />
+              <e p="LeanPulse.cs" t="Include" />
+              <e p="LeanResize.cs" t="Include" />
+              <e p="LeanSafeArea.cs" t="Include" />
+              <e p="LeanSelection.cs" t="Include" />
+              <e p="LeanSelectionHighlight.cs" t="Include" />
+              <e p="LeanSelectionManager.cs" t="Include" />
+              <e p="LeanSelectionPriority.cs" t="Include" />
+              <e p="LeanShake.cs" t="Include" />
+              <e p="LeanSizer.cs" t="Include" />
+              <e p="LeanSnap.cs" t="Include" />
+              <e p="LeanSwipe.cs" t="Include" />
+              <e p="LeanSwitch.cs" t="Include" />
+              <e p="LeanToggle.cs" t="Include" />
+              <e p="LeanTooltip.cs" t="Include" />
+              <e p="LeanTooltipData.cs" t="Include" />
+              <e p="LeanWindow.cs" t="Include" />
+              <e p="LeanWindowCloser.cs" t="Include" />
+            </e>
+          </e>
+          <e p="READ ME.txt" t="Include" />
+          <e p="Transition" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="RepeatFromCode.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Extras" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="LeanAnimation.cs" t="Include" />
+                <e p="LeanAnimationOnce.cs" t="Include" />
+                <e p="LeanAnimationRepeater.cs" t="Include" />
+              </e>
+            </e>
+            <e p="LeanTransition.asmdef" t="Include" />
+            <e p="Methods" t="Include">
+              <e p="AudioSource" t="Include">
+                <e p="LeanAudioSourceVolume.cs" t="Include" />
+              </e>
+              <e p="GameObject" t="Include">
+                <e p="LeanGameObjectSetActive.cs" t="Include" />
+              </e>
+              <e p="LeanDelay.cs" t="Include" />
+              <e p="LeanEvent.cs" t="Include" />
+              <e p="LeanGet.cs" t="Include" />
+              <e p="LeanInsert.cs" t="Include" />
+              <e p="LeanJoin.cs" t="Include" />
+              <e p="LeanJoinDelay.cs" t="Include" />
+              <e p="LeanJoinInsert.cs" t="Include" />
+              <e p="LeanPlaySound.cs" t="Include" />
+              <e p="LeanQueue.cs" t="Include" />
+              <e p="LeanTime.cs" t="Include" />
+              <e p="LeanTimeScale.cs" t="Include" />
+              <e p="Light" t="Include">
+                <e p="LeanLightColor.cs" t="Include" />
+                <e p="LeanLightIntensity.cs" t="Include" />
+                <e p="LeanLightRange.cs" t="Include" />
+              </e>
+              <e p="Material" t="Include">
+                <e p="LeanMaterialColor.cs" t="Include" />
+                <e p="LeanMaterialFloat.cs" t="Include" />
+                <e p="LeanMaterialVector.cs" t="Include" />
+              </e>
+              <e p="SpriteRenderer" t="Include">
+                <e p="LeanSpriteRendererColor.cs" t="Include" />
+              </e>
+              <e p="Transform" t="Include">
+                <e p="LeanTransformEulerAngles.cs" t="Include" />
+                <e p="LeanTransformLocalEulerAngles.cs" t="Include" />
+                <e p="LeanTransformLocalPosition.cs" t="Include" />
+                <e p="LeanTransformLocalPositionX.cs" t="Include" />
+                <e p="LeanTransformLocalPositionY.cs" t="Include" />
+                <e p="LeanTransformLocalPositionZ.cs" t="Include" />
+                <e p="LeanTransformLocalRotation.cs" t="Include" />
+                <e p="LeanTransformLocalScale.cs" t="Include" />
+                <e p="LeanTransformPosition.cs" t="Include" />
+                <e p="LeanTransformPositionX.cs" t="Include" />
+                <e p="LeanTransformPositionY.cs" t="Include" />
+                <e p="LeanTransformPositionZ.cs" t="Include" />
+                <e p="LeanTransformRotate.cs" t="Include" />
+                <e p="LeanTransformRotation.cs" t="Include" />
+                <e p="LeanTransformTranslate.cs" t="Include" />
+              </e>
+              <e p="UI" t="Include">
+                <e p="LeanCanvasGroupAlpha.cs" t="Include" />
+                <e p="LeanCanvasGroupBlocksRaycasts.cs" t="Include" />
+                <e p="LeanCanvasGroupInteractable.cs" t="Include" />
+                <e p="LeanGraphicColor.cs" t="Include" />
+                <e p="LeanImageFillAmount.cs" t="Include" />
+                <e p="LeanRectTransformAnchoredPosition.cs" t="Include" />
+                <e p="LeanRectTransformAnchoredPositionX.cs" t="Include" />
+                <e p="LeanRectTransformAnchoredPositionY.cs" t="Include" />
+                <e p="LeanRectTransformAnchorMax.cs" t="Include" />
+                <e p="LeanRectTransformAnchorMin.cs" t="Include" />
+                <e p="LeanRectTransformOffsetMax.cs" t="Include" />
+                <e p="LeanRectTransformOffsetMin.cs" t="Include" />
+                <e p="LeanRectTransformPivot.cs" t="Include" />
+                <e p="LeanRectTransformPivotX.cs" t="Include" />
+                <e p="LeanRectTransformPivotY.cs" t="Include" />
+                <e p="LeanRectTransformSetAsLastSibling.cs" t="Include" />
+                <e p="LeanRectTransformSizeDelta.cs" t="Include" />
+                <e p="LeanTransformLocalScaleXY.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="LeanEase.cs" t="Include" />
+              <e p="LeanMethod.cs" t="Include" />
+              <e p="LeanPlayer.cs" t="Include" />
+              <e p="LeanState.cs" t="Include" />
+              <e p="LeanStateWithTarget.cs" t="Include" />
+              <e p="LeanTiming.cs" t="Include" />
+              <e p="LeanTransition.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Game" t="Include">
+            <e p="AddTowerButton.cs" t="Include" />
+            <e p="Ammo.cs" t="Include" />
+            <e p="Dice.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="GameUIManager.cs" t="Include" />
+            <e p="UltimateManager.cs" t="Include" />
+            <e p="UpdateTowerButton.cs" t="Include" />
+          </e>
+          <e p="Menu" t="Include">
+            <e p="Cloud.cs" t="Include" />
+            <e p="DiceCollector.cs" t="Include" />
+            <e p="Improve.cs" t="Include" />
+            <e p="MenuUIManager.cs" t="Include" />
+          </e>
+          <e p="Native" t="Include">
+            <e p="Vibration.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="BattleDice.sln" t="IncludeFlat" />
+      <e p="LeanCommon.csproj" t="IncludeRecursive" />
+      <e p="LeanGUI.csproj" t="IncludeRecursive" />
+      <e p="LeanTransition.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

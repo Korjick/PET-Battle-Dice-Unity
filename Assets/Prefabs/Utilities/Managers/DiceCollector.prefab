@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4693188613585447482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9041919231234964602}
+  - component: {fileID: 3789151818765222866}
+  m_Layer: 0
+  m_Name: DiceCollector
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9041919231234964602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4693188613585447482}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1380361, y: 0.17681733, z: 4.314859}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3789151818765222866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4693188613585447482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6390064f074268647b8dd93eb889771d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dices:
+  - {fileID: 3590661216088164321, guid: 096bbf218cb05a644b33a382657bff1e, type: 3}
+  - {fileID: 1565107056732446352, guid: caacd28be1aaf05458ccca8515f5b4f3, type: 3}
+  - {fileID: 3473023143137331176, guid: 4ddb7f214405b8c4d84cf2e4d008ca96, type: 3}
+  - {fileID: 7716390325766393585, guid: 97f092c50d4009e4fa439febeef769cb, type: 3}
+  - {fileID: 1391791300937819011, guid: f02905715e50ca443ab659764427469d, type: 3}
+  - {fileID: 2040623021929503500, guid: 8407d2195daec05499c41f1f32424361, type: 3}
+  - {fileID: 6750251097988966885, guid: fa6cb16f0a40f554f9f980853eeb4956, type: 3}
