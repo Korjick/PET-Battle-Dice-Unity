@@ -10,7 +10,7 @@
   </a>
 </p>
 
-> Personal Battle Dice project
+> Commercial freelance project
 
 ### 🏠 [Homepage](https://github.com/Korjick/Informatics-First-Semester-HW)
 
