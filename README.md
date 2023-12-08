@@ -10,7 +10,7 @@
   </a>
 </p>
 
-> Commercial freelance project
+> Commercial freelance project, made with Unity
 
 ### 🏠 [Homepage](https://github.com/Korjick/PET-Battle-Dice-Unity)
 
