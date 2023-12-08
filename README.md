@@ -12,11 +12,11 @@
 
 > Commercial freelance project
 
-### 🏠 [Homepage](https://github.com/Korjick/Informatics-First-Semester-HW)
+### 🏠 [Homepage](https://github.com/Korjick/PET-Battle-Dice-Unity)
 
 ## Author
 
 👤 **Bulat Din**
 
-* Website: https://github.com/Korjick
+* Website: http://din.bounceme.net/
 * Github: [@Korjick](https://github.com/Korjick)
